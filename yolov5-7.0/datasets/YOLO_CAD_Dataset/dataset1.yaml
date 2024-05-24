@@ -1,0 +1,11 @@
+path: C:\Users\89573\Desktop\yolov5-7.0\datasets
+train: YOLO_CAD_Dataset\train
+
+val: YOLO_CAD_Dataset\val
+
+nc: 49
+
+names:
+  0: "\u7403\u9600"
+  1: "\u6cd5\u5170"
+  2: "\u4eea\u8868"
